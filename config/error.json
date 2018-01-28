@@ -1,0 +1,12 @@
+{
+	"DATABASE_PROCESS"  : " Error generated while processing database operation.",
+	"WRONG_PSW"			: " Oops! Entered Username & Password are Wrong. ",
+	"USER_NOTEXIST"		: " You are not registered user. ",
+	"ALREADY_EXIST"		: " Enter email already taken by someone, Please try differant. ",
+	"SESSION_EXPIRED"	: " Session expired. ",
+	"OBJECT_VERIFY" 	: " Object Verification Failed. ",
+	"PROCESSING"		: " Error generated while operation of function. ",
+	"TOKEN_INVALID"		: " Password reset token is invalid or has expired. ",
+	"INPUT_NOT_VALIDATE": " Passed input data are not enough for operation. ",
+	"NOT_FOUND"			: " Data not available. "
+}

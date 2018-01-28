@@ -1,0 +1,21 @@
+{
+    "PORT": 8080,
+    "HOST_IP": "0.0.0.0",
+    "reset_pass_time":3600000,
+    "mongo": {
+        "replicas"	: ["127.0.0.1:27017"],
+        "port"		: 27017,
+        "database"	: "EnpDetails",
+        "username"	: "",
+        "password"	: ""
+    },
+    "email":{
+	    "service"       : "gmail",
+	    "name"          : "Demo App Mail send",
+	    "user"          : "ranjeetmane6613@gmail.com",
+	    "pass"          : "NOrm_6613",
+	    "subject"       : "Testing forget password functinality",
+	    "from"          : "Ranjeet Mane<ranjeetmane6613@gmail.com>"
+    }
+}       
+
