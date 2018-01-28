@@ -12,10 +12,10 @@
     "email":{
 	    "service"       : "gmail",
 	    "name"          : "Demo App Mail send",
-	    "user"          : "ranjeetmane6613@gmail.com",
-	    "pass"          : "NOrm_6613",
+	    "user"          : "",
+	    "pass"          : "",
 	    "subject"       : "Testing forget password functinality",
-	    "from"          : "Ranjeet Mane<ranjeetmane6613@gmail.com>"
+	    "from"          : ""
     }
 }       
 
