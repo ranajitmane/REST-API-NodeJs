@@ -1,6 +1,6 @@
 {
-	"DATABASE_PROCESS"  : " Error generated while processing database operation.",
-	"WRONG_PSW"			: " Oops! Entered Username & Password are Wrong. ",
+	"DATABASE_PROCESS"  	: " Error generated while processing database operation.",
+	"WRONG_PSW"		: " Oops! Entered Username & Password are Wrong. ",
 	"USER_NOTEXIST"		: " You are not registered user. ",
 	"ALREADY_EXIST"		: " Enter email already taken by someone, Please try differant. ",
 	"SESSION_EXPIRED"	: " Session expired. ",
